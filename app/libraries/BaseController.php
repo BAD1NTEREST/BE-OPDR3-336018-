@@ -22,4 +22,4 @@ class BaseController
             echo 'De model bestaat niet';
         }
     }
-}   
+}
